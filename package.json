@@ -1,0 +1,24 @@
+{
+  "name": "dio-bootcamp-sptech-desenvolvimento-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andressamiki/dio-bootcamp-sptech-desenvolvimento-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andressamiki/dio-bootcamp-sptech-desenvolvimento-frontend/issues"
+  },
+  "homepage": "https://github.com/andressamiki/dio-bootcamp-sptech-desenvolvimento-frontend#readme",
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-scripts": "^3.0.1"
+  }
+}
